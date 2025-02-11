@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 100% 5%; /* Azul escuro */
+    --foreground: 0 0% 100%; /* Branco */
+
+    --primary: 240 100% 40%;
+    --primary-foreground: 0 0% 100%;
+
+    --border: 240 100% 15%;
+    --input: 240 100% 15%;
+    --ring: 240 100% 30%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-[var(--border)];
+  }
+  body {
+    @apply bg-background text-foreground antialiased h-screen flex flex-col;
+  }
+}
