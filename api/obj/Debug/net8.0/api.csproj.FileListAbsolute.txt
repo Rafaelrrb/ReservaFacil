@@ -164,3 +164,4 @@
 /home/rafael/Área de Trabalho/ReservaFacil/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/rafael/Área de Trabalho/ReservaFacil/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /home/rafael/Área de Trabalho/ReservaFacil/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/rafael/Área de Trabalho/ReservaFacil/api/obj/Debug/net8.0/api.sourcelink.json

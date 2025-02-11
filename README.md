@@ -16,7 +16,7 @@ dotnet restore
 3. **Compile o projeto:**
 
 ```bash
-dotnet run dev
+dotnet run
 ```
 
 5. **Acesse a aplicação:**
